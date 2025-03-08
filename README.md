@@ -1,3 +1,5 @@
+## 이활석님의 코드를 바탕으로 단순 VAE 학습을 위한 fork rep입니다. 
+
 # Variational Auto-Encoder for MNIST
 An implementation of variational auto-encoder (VAE) for MNIST descripbed in the paper:  
 * [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114) by Kingma et al.
